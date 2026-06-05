@@ -24,9 +24,13 @@ I build full-stack web apps and desktop applications using the MERN stack, Java,
 ### Featured projects
 
 🛒 **iMaster** — Full-stack MERN shop management app with inventory and repair job tracking
+
 🍽️ **ReMeal** — Group project; I built the full Spring Boot backend
+
 🤖 **Computer Buying Guidance App** — PyTorch chatbot for hardware recommendations (final year project)
+
 🎮 **BrainTrickle** — Multiplayer Java math quiz using RMI networking
+
 🎓 **CELS Management System** — Java desktop app for student/teacher/exam administration
 
 ---
