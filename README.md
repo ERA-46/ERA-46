@@ -1,6 +1,6 @@
 # Hi, I'm Eranda 👋
 
-Junior software developer based in Surrey, BC — open to work.
+Junior software developer based in Surrey, BC - open to work.
 
 I build full-stack web apps and desktop applications using the MERN stack, Java, and Spring Boot. Currently seeking junior developer or IT support roles.
 
@@ -23,15 +23,15 @@ I build full-stack web apps and desktop applications using the MERN stack, Java,
 
 ### Featured projects
 
-🛒 **iMaster** — Full-stack MERN shop management app with inventory and repair job tracking
+🛒 **iMaster** - Full-stack MERN shop management app with inventory and repair job tracking
 
-🍽️ **ReMeal** — Group project; I built the full Spring Boot backend
+🍽️ **ReMeal** - Group project; I built the full Spring Boot backend
 
-🤖 **Computer Buying Guidance App** — PyTorch chatbot for hardware recommendations (final year project)
+🤖 **Computer Buying Guidance App** - PyTorch chatbot for hardware recommendations (final year project)
 
-🎮 **BrainTrickle** — Multiplayer Java math quiz using RMI networking
+🎮 **BrainTrickle** - Multiplayer Java math quiz using RMI networking
 
-🎓 **CELS Management System** — Java desktop app for student/teacher/exam administration
+🎓 **CELS Management System** - Java desktop app for student/teacher/exam administration
 
 ---
 
